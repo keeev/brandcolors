@@ -27,5 +27,10 @@ Currently there are the following services/brands:
 * Kickstarter
 * Instagram
 * Foursquare
+* Amazon
+* Designer News
+* Evernote
+* Rdio
+* Spotify
 
 Feel free to add others! 
