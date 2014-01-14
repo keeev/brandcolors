@@ -15,22 +15,37 @@ if you use less or **.sass** if you use Sass (obviously, ha?). If you're looking
 
 Currently there are the following services/brands: 
 
-* Github
+
+### Social Networks
+
 * Facebook
-* Dropbox
-* Dribbble
 * Twitter
 * Vine
-* Vimeo
 * Linkedin
-* Kippt
-* Kickstarter
 * Instagram
 * Foursquare
+
+### Music / Video / Creativity
+
+* Rdio
+* Spotify
+* SoundCloud
+* Vimeo
+* Kickstarter
+
+### Development & Design
+
+* Atlassian (Jira, Bitbucket, HipChat, ...)
+* Github
+* Dribbble
+
+### Tools/Services
+
+* Dropbox
+* Kippt
 * Amazon
 * Designer News
 * Evernote
-* Rdio
-* Spotify
+
 
 Feel free to add others! 
