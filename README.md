@@ -8,7 +8,7 @@ as variable for LESS and Sass in every project I need them.
 Just import them via: 
 
  ```css 
-@import (brandcolors.less)
+@import ("brandcolors.less");
  ```
  
 if you use less or **.sass** if you use Sass (obviously, ha?). If you're looking for a way to organize your Sass/LESS checkout [Organize that Sass!](http://alistapart.com/blog/post/organize-that-sass) on A List Apart.
