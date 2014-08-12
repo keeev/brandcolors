@@ -45,6 +45,7 @@ Currently there are the following services/brands:
 * Dropbox
 * Kippt
 * Amazon
+* Airbnb
 * Designer News
 * Evernote
 
