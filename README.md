@@ -25,6 +25,8 @@ Currently there are the following services/brands:
 * Instagram
 * Foursquare
 * Swarm (Foursquare)
+* Yo
+* Tinder
 
 ### Music / Video / Creativity
 
