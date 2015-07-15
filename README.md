@@ -53,6 +53,10 @@ Currently there are the following services/brands:
 * Swarm (Foursquare)
 * Yo
 * Tinder
+* Xing
+* Google+
+* Medium
+* Meetup
 
 ### Music / Video / Creativity
 
@@ -67,6 +71,7 @@ Currently there are the following services/brands:
 * Atlassian (Jira, Bitbucket, HipChat, ...)
 * Github
 * Dribbble
+* Behance
 
 ### Tools/Services
 
